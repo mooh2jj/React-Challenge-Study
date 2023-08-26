@@ -1,7 +1,7 @@
  1주차 정리<br>
 
  2주차 정리<br>
- <code>
+`
  --------------------------component : App.jsx -----------------------------<br>
  import { useState } from 'react'<br>
 import reactLogo from './../assets/react.svg'<br>
@@ -27,10 +27,8 @@ function App() {<br>
       <div className="product-list"><br>
         {products.map(product => (<br>
           <div key={product.id} className="product"><br>
-          <code>
             <h2>{product.productName}</h2><br>
             <p>Price: {product.salePrice}</p><br>
-            </code>
           </div><br>
         ))}<br>
       </div><br>
@@ -51,4 +49,4 @@ export async function getProducts(baseUrl) {<br>
       console.error('Error getProducts data:' + error);<br>
     }<br>
   }<br>
-</code>
+`
