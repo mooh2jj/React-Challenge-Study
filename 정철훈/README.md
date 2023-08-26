@@ -1,8 +1,8 @@
  1주차 정리<br>
 
  2주차 정리<br>
-`
  --------------------------component : App.jsx -----------------------------<br>
+ ```
  import { useState } from 'react'<br>
 import reactLogo from './../assets/react.svg'<br>
 import viteLogo from '/vite.svg'<br>
@@ -49,4 +49,4 @@ export async function getProducts(baseUrl) {<br>
       console.error('Error getProducts data:' + error);<br>
     }<br>
   }<br>
-`
+```
