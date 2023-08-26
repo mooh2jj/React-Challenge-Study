@@ -57,8 +57,8 @@ name, content, createdAt, modifiedAt 필드 구현
 ```
 1) 기존 리액트 개념 복습 - 추천 강의 참조
 2) 자바스크립트 모던 문법 nodemon 자바 실행기로 예제 실습 - 자바스크립트 정리 참조
-2) list api +  SpringBoot list api + CORS 설정 + React axios 라이브러리 사용 console.log로 연동확인
-3) list api -> React App.js return JSX 내 랜더링 - Notion 정리 참조
+3) list api +  SpringBoot list api + CORS 설정 + React axios 라이브러리 사용 console.log로 연동확인
+4) list api -> React App.js return(JSX)내 랜더링 - Notion 정리 참조
 ```
 * 자바스크립트 정리 - https://www.notion.so/bffd371d38894f1e91fa91ea1a4728bc?pvs=4
 * 노션정리 - https://www.notion.so/1week-37f14aaa17e6460e87416f8095024789
