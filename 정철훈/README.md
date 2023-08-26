@@ -1,50 +1,50 @@
- 1주차 정리
+ 1주차 정리<br>
 
- 2주차 정리
- --------------------------component : App.jsx -----------------------------
- import { useState } from 'react'
-import reactLogo from './../assets/react.svg'
-import viteLogo from '/vite.svg'
-import React, { useEffect } from 'react';
-import { getProducts } from '../utils/getProducts';
-import './App.css'
-
-function App() {
-  const [count, setCount] = useState(0)
-  const [products, setProducts] = useState([]);
-  const baseUrl = "http://localhost:8080";
-  useEffect(()=>{
-      const products = async() =>{
-            const data = await getProducts(baseUrl);
-            setProducts(data);
-            console.log(data);      
-      };
-      products();
-    },[]);
-  return (
-    <>
-      <div className="product-list">
-        {products.map(product => (
-          <div key={product.id} className="product">
-            <h2>{product.productName}</h2>
-            <p>Price: {product.salePrice}</p>
-          </div>
-        ))}
-      </div>
-    </>
-  )
-}
-
-export default App
-
----------------------------utils : getProducts.js-------------------------------
-import axios from 'axios';
-
-export async function getProducts(baseUrl) {
-    try {
-      const response = await axios.get(`${baseUrl}/api/public/products`);
-      return response.data;
-    } catch (error) {
-      console.error('Error getProducts data:' + error);
-    }
-  }
+ 2주차 정리<br>
+ --------------------------component : App.jsx -----------------------------<br>
+ import { useState } from 'react'<br>
+import reactLogo from './../assets/react.svg'<br>
+import viteLogo from '/vite.svg'<br>
+import React, { useEffect } from 'react';<br>
+import { getProducts } from '../utils/getProducts';<br>
+import './App.css'<br>
+<br>
+function App() {<br>
+  const [count, setCount] = useState(0)<br>
+  const [products, setProducts] = useState([]);<br>
+  const baseUrl = "http://localhost:8080";<br>
+  useEffect(()=>{<br>
+      const products = async() =>{<br>
+            const data = await getProducts(baseUrl);<br>
+            setProducts(data);<br>
+            console.log(data);      <br>
+      };<br>
+      products();<br>
+    },[]);<br>
+  return (<br>
+    <><br>
+      <div className="product-list"><br>
+        {products.map(product => (<br>
+          <div key={product.id} className="product"><br>
+            <h2>{product.productName}</h2><br>
+            <p>Price: {product.salePrice}</p><br>
+          </div><br>
+        ))}<br>
+      </div><br>
+    </><br>
+  )<br>
+}<br>
+<br>
+export default App<br>
+<br>
+---------------------------utils : getProducts.js-------------------------------<br>
+import axios from 'axios';<br>
+<br>
+export async function getProducts(baseUrl) {<br>
+    try {<br>
+      const response = await axios.get(`${baseUrl}/api/public/products`);<br>
+      return response.data;<br>
+    } catch (error) {<br>
+      console.error('Error getProducts data:' + error);<br>
+    }<br>
+  }<br>
