@@ -66,4 +66,23 @@ name, content, createdAt, modifiedAt 필드 구현
 </div>
 </details>
 
+<details>
+<summary>2week(09/02)</summary>
+<div markdown="1">
+
+* React 개발에 도움을 주는 VSC 플러그인 소개!
+* 모던자바스크립트 -> arrow 함수 const, map -> key(데이터의 식별자 기입) // nodemon으로 연습 추천!
+* props vs state 
+* React Hooks -> useState(), useEffect() 
+* Component 컴포넌트 설계 -> 전주 list 컴포넌트화 실습습
+* React Route 사용, 컴포넌트 path 경로 설정
+```
+1) 기존 리액트 개념 복습 
+2) 자바스크립트 모던 문법 nodemon 자바 실행기로 예제 실습 - 자바스크립트 정리 참조 -> map, filter, fetch, async&await
+3) 스터디한 내용으로 자신이 만든 React 프로젝트 -> CRUD 기능 첨가! (등록, 조회, 수정, 삭제)
+```
+* 노션정리 - https://www.notion.so/2week-ae81a4f7157444f2a677c447fa8ec9de?pvs=12
+
+</div>
+</details>
 <br>
