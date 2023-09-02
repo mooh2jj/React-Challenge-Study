@@ -78,7 +78,8 @@ name, content, createdAt, modifiedAt 필드 구현
 * React Route 사용, 컴포넌트 path 경로 설정
 ```
 1) 기존 리액트 개념 복습 
-2) 자바스크립트 모던 문법 nodemon 자바 실행기로 예제 실습 - 자바스크립트 정리 참조 -> map, filter, fetch, async&await
+2) 자바스크립트 모던 문법 nodemon 자바 실행기로 예제 실습
+- 자바스크립트 정리 참조 -> map, filter, fetch, async&await
 3) 스터디한 내용으로 자신이 만든 React 프로젝트 -> CRUD 기능 첨가! (등록, 조회, 수정, 삭제)
 ```
 * 노션정리 - https://www.notion.so/2week-ae81a4f7157444f2a677c447fa8ec9de?pvs=12
