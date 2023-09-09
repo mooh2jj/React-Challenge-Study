@@ -98,8 +98,9 @@ name, content, createdAt, modifiedAt 필드 구현
 * Component 컴포넌트 설계 -> React CRUD 코드 분석
 * 인증처리를 위한 Spring Security (jwt) 필요성
 ```
-1) 못하신 리액트 CRUD 나머지 구현 -> 디자인 처리
-2) 인증처리를 위한 서버 소스코드 제공 -> 자기 프로젝트에 적용하기
+1) 못하신 리액트 CRUD 나머지 구현 -> 디자인 처리 
+2) 인증처리를 위한 spring secuirty(+jwt필터) -> 본인 프로젝트에 적용하기
+** 소스코드 참고하셔도 됩니다!
 ```
 * 노션정리 - https://www.notion.so/3week-498ed09fc0534fa5b2d17148b1f0e910
 
