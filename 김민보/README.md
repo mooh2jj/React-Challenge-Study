@@ -399,3 +399,10 @@ export default App;
 ```
 ![image](https://github.com/minbo2002/React-Challenge-Study/assets/68101836/7c841854-40b1-400a-8900-c250f4bd357a)
 
+<br>
+
+# 3주차
+
+### 1. 인증처리를 위한 spring security(+jwt필터) 프로젝트에 적용
+
+--> https://github.com/minbo2002/react-challenge-study-backend
