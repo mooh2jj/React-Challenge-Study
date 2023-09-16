@@ -106,4 +106,23 @@ name, content, createdAt, modifiedAt 필드 구현
 
 </div>
 </details>
+
+<details>
+<summary>4week(09/16)</summary>
+<div markdown="1">
+
+* 세션 vs 쿠키 vs 토큰
+* Spring Security -> jwt filter 구현
+* 인증 vs 인가
+* accessToken vs refreshToken
+* 웹 브라우저 스토리지 -> 로컬 스토리지 vs 세션 스토리지
+* 인증처리를 위한 Spring Security (jwt) 적용 실습
+```
+1) 지금까지 한 스터디 내용 본인 블로그에 정리하기!
+2) 못하신 리액트 CRUD + 인증 + 디자인 -> 본인 프로젝트에 적용하기! 
+** 소스코드 참고하셔도 됩니다!
+```
+
+</div>
+</details>
 <br>
