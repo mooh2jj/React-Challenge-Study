@@ -60,9 +60,6 @@ name, content, createdAt, modifiedAt 필드 구현
 3) list api +  SpringBoot list api + CORS 설정 + React axios 라이브러리 사용 console.log로 연동확인
 4) list api -> React App.js return(JSX)내 랜더링 - Notion 정리 참조
 ```
-* 자바스크립트 정리 - https://www.notion.so/bffd371d38894f1e91fa91ea1a4728bc?pvs=4
-* 노션정리 - https://www.notion.so/1week-37f14aaa17e6460e87416f8095024789
-
 </div>
 </details>
 
@@ -82,7 +79,6 @@ name, content, createdAt, modifiedAt 필드 구현
 - 자바스크립트 정리 참조 -> map, filter, fetch, async&await
 3) 스터디한 내용으로 자신이 만든 React 프로젝트 -> CRUD 기능 첨가! (등록, 조회, 수정, 삭제)
 ```
-* 노션정리 - https://www.notion.so/2week-ae81a4f7157444f2a677c447fa8ec9de?pvs=12
 
 </div>
 </details>
@@ -102,7 +98,6 @@ name, content, createdAt, modifiedAt 필드 구현
 2) 인증처리를 위한 spring secuirty(+jwt필터) -> 본인 프로젝트에 적용하기
 ** 소스코드 참고하셔도 됩니다!
 ```
-* 노션정리 - https://www.notion.so/3week-498ed09fc0534fa5b2d17148b1f0e910
 
 </div>
 </details>
