@@ -39,7 +39,7 @@ name, content, createdAt, modifiedAt 필드 구현
 5) react 관련 강의 추천목록 감상 (노션정리 참조)
 ```
 * 환경셋팅 - https://www.notion.so/Tool-bb4d80cb1a094696b8ff27f4cd52bb00?pvs=12
-* 노션정리 - https://rain-tank-b79.notion.site/c04c35eb80be489d8c2d2c6018ed1d3c?pvs=4
+* 노션정리 - https://www.notion.so/c04c35eb80be489d8c2d2c6018ed1d3c?pvs=4
 
 </div>
 
