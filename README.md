@@ -11,10 +11,10 @@
 <br>
 
 # 📅 스터디 일정
-08/19(OT), 08/26 ~ 09/16(4주)
+11/04(OT), 11/11 ~ 12/02(4주)
 
 <details>
-<summary>OT(08/19)</summary>
+<summary>OT(11/04)</summary>
 <div markdown="1">
 
 * 아이스브레이킹 시간(자기 소개 등등..)
