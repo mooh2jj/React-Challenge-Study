@@ -1,0 +1,20 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/jpa
+    username: mogreene
+    password: 1234
+
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+    open-in-view: false
+    properties:
+      hibernate:
+        format_sql: true
+        highlight_sql: true
+        default_batch_fetch_size: 1000
+logging:
+  level:
+    org.hibernate.orm.jdbc.bing: trace
