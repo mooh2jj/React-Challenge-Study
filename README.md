@@ -11,10 +11,10 @@
 <br>
 
 # 📅 스터디 일정
-08/19(OT), 08/26 ~ 09/16(4주)
+11/04(OT), 11/11 ~ 12/02(4주)
 
 <details>
-<summary>OT(08/19)</summary>
+<summary>OT(11/04)</summary>
 <div markdown="1">
 
 * 아이스브레이킹 시간(자기 소개 등등..)
@@ -38,8 +38,8 @@ name, content, createdAt, modifiedAt 필드 구현
 
 5) react 관련 강의 추천목록 감상 (노션정리 참조)
 ```
-* 환경셋팅 - https://www.notion.so/Tool-bb4d80cb1a094696b8ff27f4cd52bb00?pvs=12
-* 노션정리 - https://www.notion.so/c04c35eb80be489d8c2d2c6018ed1d3c
+* 환경셋팅 - https://www.notion.so/Tool-bb4d80cb1a094696b8ff27f4cd52bb00?pvs=4
+* 노션정리 - https://www.notion.so/c04c35eb80be489d8c2d2c6018ed1d3c?pvs=4
 
 </div>
 
