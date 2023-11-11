@@ -42,6 +42,7 @@ name, content, createdAt, modifiedAt 필드 구현
 * 노션정리 - https://www.notion.so/c04c35eb80be489d8c2d2c6018ed1d3c?pvs=4
 
 </div>
+</details>
 
 <details>
 <summary>1week(11/11)</summary>
@@ -72,4 +73,14 @@ name, content, createdAt, modifiedAt 필드 구현
 * 노션정리 - https://www.notion.so/1week-37f14aaa17e6460e87416f8095024789?pvs=4
 
 
+</div>
+</details>
+
 <br>
+
+
+# 🎃 주의사항
+
+1. 발표 내용에 대한 리뷰, 질문이 너무 날카로워 해당 발표자에 대한 강한 `감정적인 언행은 주의`해주세요 😫!
+2. 질문을 받은 발표자도 Code 또는 발표내용 등을 자신과 동일시하여 지적한 것에 대해 너무 불쾌히 여기지 말으셨으면 좋겠습니다 😂!
+3. 리뷰, 피드백의 핵심은 `문제점들을 찾고 발전하는 것`이라는 걸 잊지 말아주세요!
