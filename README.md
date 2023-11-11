@@ -43,4 +43,33 @@ name, content, createdAt, modifiedAt 필드 구현
 
 </div>
 
+<details>
+<summary>1week(11/11)</summary>
+<div markdown="1">
+
+* 리액트 - WS 외 필요한 웹 구동 서버 도식도 설명
+* 리액트에 필요한 모던자바스트립트(ES6) 설명
+* 브라우저 동작 원리 -> SPA 라이브러이의 VDOM(Virtual DOM)
+* 리액트의 JSX 문법 정리
+* 리액트 Vite 프로젝트
+  - port 고정 설정
+  - Strict Mode 삭제
+  - SpringBoot GET API 연동 return 내 코드 랜더링 확인 -> map 사용
+* CORS 연동 - 서버단에서 설정 
+
+미션
+```
+1) GET List API 연동 인증
+
+2) 모던 자바스크립트 -> 예시 내용 이해해보기 // 공유한 `기본 자바스크립트 정리` 노션 정리 참조
+
+3) 리액트 나머지 CRUD 내용 본인 프로젝트에 적용해보기
+=> 참고 영상 : https://www.youtube.com/watch?v=hHRLN9j1kqI
+
+4) 간단하게 오늘 배운 내용 정리하기
+```
+* 기본자바스크립트 정리 - https://www.notion.so/bffd371d38894f1e91fa91ea1a4728bc?pvs=4
+* 노션정리 - https://www.notion.so/1week-37f14aaa17e6460e87416f8095024789?pvs=4
+
+
 <br>
