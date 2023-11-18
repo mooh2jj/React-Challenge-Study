@@ -76,6 +76,33 @@ name, content, createdAt, modifiedAt 필드 구현
 </div>
 </details>
 
+</details>
+
+<details>
+<summary>2week(11/18)</summary>
+<div markdown="1">
+
+* bootstrap 디자인 설정 -> 간단한 컴포넌트 사용 ex. button, table
+* springboot 내 controller단 CORS 설정 설명
+* Component 설계 -> App.jsx의 return 문 내부는 component로 정리
+  * List component 제작
+  * props vs state
+* axios 통신 Service 파일로 이관
+* React Hooks - useState(), useEffect() 설명
+* JSX 내 function event Handling 유의사항
+* React Router 로 component path 기입
+
+미션
+```
+* 3주차 본인 도메인에 맞는 CRUD 최소기능 만들어오기 
+참고) https://www.youtube.com/watch?v=hHRLN9j1kqI
+```
+* 노션정리 - https://www.notion.so/2week-ae81a4f7157444f2a677c447fa8ec9de?pvs=4
+
+
+</div>
+</details>
+
 <br>
 
 
