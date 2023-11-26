@@ -121,8 +121,10 @@ name, content, createdAt, modifiedAt 필드 구현
 미션
 ```
 * 서버 인증인가 security ->  jwt 필터 스터디해오기
-
 ```
+* security 인증인가 & jwt 자료
+  * https://velog.io/@mooh2jj/Security-인증인가처리
+  * https://velog.io/@mooh2jj/SpringBoot-JWT-인증인가처리
 * 노션정리 - https://www.notion.so/3week-498ed09fc0534fa5b2d17148b1f0e910?pvs=4
 
 
