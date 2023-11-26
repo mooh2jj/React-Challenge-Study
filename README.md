@@ -103,6 +103,32 @@ name, content, createdAt, modifiedAt 필드 구현
 </div>
 </details>
 
+<details>
+<summary>3week(11/25)</summary>
+<div markdown="1">
+
+* axios 인스턴스 모듈화 정리 -> Service 파일로 구성
+* Component 설계 -> Route 로 정리
+  * 패키지 구성  
+* React Hooks - useState(), useEffect() 외 router hooks 설명
+  * useParams()
+  * useNavigate()  
+* 그외
+  * 유효성 검사 input function
+  * Date 타입 포멧 function 
+* React Tools 프로그램 소개
+
+미션
+```
+* 서버 인증인가 security ->  jwt 필터 스터디해오기
+
+```
+* 노션정리 - https://www.notion.so/3week-498ed09fc0534fa5b2d17148b1f0e910?pvs=4
+
+
+</div>
+</details>
+
 <br>
 
 
