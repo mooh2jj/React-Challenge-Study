@@ -131,6 +131,29 @@ name, content, createdAt, modifiedAt 필드 구현
 </div>
 </details>
 
+<details>
+<summary>4week(12/02)</summary>
+<div markdown="1">
+
+* 로그인 - 인증, 인가, 로그아웃 flow
+* 세션 vs 쿠키 vs token(jwt)
+* Spring security 내 필터 구성
+* jwt 인증 flow
+* 서버단 설정
+* 프론트 설정
+  * session storage vs local storage
+  * axios interceptor request
+* accessToken vs refreshToken 그리고 보안쿠키 활용
+
+미션
+```
+* 서버 인증인가 security ->  jwt 인증 방식 -> accessToken & refresh token 반환 api 구현
+```
+* 노션정리 - https://www.notion.so/4week-ac04e6fa59b34481a6f1b10960894250?pvs=4
+
+</div>
+</details>
+
 <br>
 
 
